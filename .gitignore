@@ -1,0 +1,6 @@
+venv
+tmp
+output*
+books*
+*.pdf
+*.epub
